@@ -26,15 +26,3 @@ This portfolio website introduces Jessabel — her personal interests, hobbies, 
 - **JavaScript** — Interactivity (if used).
 - **Vercel** — Hosting platform.
 
-## 📁 Suggested Folder Structure
-
-```plaintext
-sireynaaa-portfolio/
-│
-├── index.html              # Main portfolio page
-├── css/                    # Styles
-│   └── style.css
-├── js/                     # JS functionality (if any)
-│   └── main.js
-├── assets/                 # Photos, icons, etc.
-└── README.md               # Project documentation
